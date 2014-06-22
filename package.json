@@ -21,10 +21,10 @@
   },
   "main": "lib/array-pluck",
   "files": [
-    "lib/array-pluck.js",
+    "lib/array-pluck.js"
   ],
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*"
   },
   "keywords": [
     "array",
