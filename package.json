@@ -1,7 +1,7 @@
 {
   "name": "array-pluck",
   "description": "Extract a list of property values from array with objects",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://github.com/frozzare/array-pluck",
   "author": {
