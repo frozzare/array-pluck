@@ -7,6 +7,8 @@ Install the module with: `npm install array-pluck`
 ## Example
 
 ```javascript
+var arrayPluck = require('array-pluck');
+
 var peoples = [
       { name: 'Fredrik', age: 22, favorites: { fruit: 'Pineapple' } },
       { name: 'Elli', age: 22, favorites: { fruit: 'Apple' } }
